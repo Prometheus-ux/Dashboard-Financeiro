@@ -1,0 +1,11 @@
+usuario_id,data,descricao,valor,categoria,tipo
+,2026-02-06,Salario base Matheus,0.01,Salário,Entrada
+,2026-02-06,Salario base Matheus,1642.99,Salário,Entrada
+Matheus ,2026-02-06,Salario base Matheus,1642.99,Salário,Entrada
+Matheus ,2026-02-06,Compras,,130.79,Compras,Saída
+Matheus ,2026-02-10,Compras na  Shen,,130.59,Compras,Saida
+Matheus ,2026-02-10,Compras ,,-130.59,Compras,saida
+Matheus ,2026-02-10,Salrio matheus,,1.64299,Salário,entrada
+Matheus ,2026-02-10,Compras shen,,-130.59,Compras,saida
+Matheus ,2026-02-10,Compras,,130.58,Compras,Saida
+Matheus ,2026-02-10,Compras,,130.59,Compras,Saída
