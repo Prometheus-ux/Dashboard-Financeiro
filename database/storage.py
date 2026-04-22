@@ -6,7 +6,7 @@ from typing import List, Dict, Optional
 # ======================
 # CONFIGURAÇÕES
 # ======================
-BASE_DIR = "database"
+BASE_DIR = "database" 
 ARQUIVO = os.path.join(BASE_DIR, "registros.csv")
 
 CAMPOS = [
